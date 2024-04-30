@@ -1,0 +1,16 @@
+# ENV
+.pytest_cache
+__pycache__
+.ruff_cache
+.DS_Store
+.vscode
+.venv
+*.env
+
+# CSV
+prices/
+
+results.json
+reverse.py
+scraps.py
+notes.md
